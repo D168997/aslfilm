@@ -39,7 +39,7 @@ Kwaliteit, of gebrek aan kwaliteit, manifesteert zichzelf in veel manieren in de
 Plannen die vaak veranderen en niet gerealiseerd worden, slechte overdraagbaarheid,
  designs die erg slecht te lezen zijn of slechte communicatie met de klant zijn allemaal
  onderdelen die er voor kunnen zorgen dat de kwaliteit van het product omlaag kan gaan.
-[Inser plaatje or whatever blz. 94]
+[Insert plaatje or whatever blz. 94]
 Veel andere process frameworks bevatten een process meestal bekend als problem management, 
 een process dat incidenten analiseerd en de onderliggende problemen bekend maakt. ASL heeft geen 
 speciale proces voor problem management omdat problemen een van de belangrijkste middelen zijn  voor 
@@ -50,5 +50,19 @@ concrete items die geadresseerd worden door het kwaliteits management. dit betek
 abstracte proces is, maar een erg concrete proces met concrete onderwerpen.
 De software moet goed doordacht worden zodat je garandeerd dat er goede resultaten uitkomen.
 
+// Leg Procesmanagement uit
+Bij een proces is er altijd iets om te verbeteren. Je kunt je wel voorstellen dat een stap niet als optimaal gezien kan zijn door de klant.
+Onder procesmanagement, bestaan er 5 managementprocessen;
+
+// leg uit wat alle managementprocessen zijn onderstaand beschreven.
++ Contractmanagement 
+  - Bij contractmanagement zorg je ervoor dat de verwachtingen van de klant optimaal gerealiseerd worden. 
++ Planning en Control
+  - 
++ Quality management
++ Financial management
++ Supplier management
+
 // Link tussen kwaliteitsmanagement en procesmanagement begint hier
 [Show QualityManagement.PNG]
+Kwaliteitsmanagement is een van de vijf managementprocessen
