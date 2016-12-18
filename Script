@@ -2,6 +2,27 @@
 	Gepresenteerd door Jeremy Vorrink & Dylan ten Böhmer
 	Shot 1 # Introductie #
 	Dit filmpje is een instructievideo over kwaliteitsmanagement en wat voor rol het speelt binnen procesmanagement.
+	
+	
+	// Chapter 1 - Leg Procesmanagement uit
+	Bij een proces is er altijd iets om te verbeteren. Je kunt je wel voorstellen dat een stap niet als optimaal gezien kan zijn door de klant.
+	Onder procesmanagement, bestaan er 5 managementprocessen;
+	
+	[Show QualityManagement.PNG]
+	+ Contractmanagement 
+	  - Bij contractmanagement zorg je ervoor dat de verwachtingen van de klant optimaal gerealiseerd worden. 
+	+ Planning en Control
+	  - Het managen van tijd, hoedanigheid, middelen en leverdatums.
+	+ Quality management 
+	  - Als doelstelling zorg te dragen voor de kwaliteit van een proces, product, middelen en de organisatie. Hier gaan wij later in de video meer over vertellen.
+	+ Financial management
+	  - Managen van uitgaven aan middelen.
+	+ Supplier management
+	  - Managen van afspraken tussen de organisatie en de leveranciers. Hier wordt gezorgt dat de afspraken nagekomen worden.
+	
+	
+	// Chapter 2 - Kwaliteitsmanagement
+	
 	Kwaliteitsmanagement heeft als doelstelling zorg te dragen voor de kwaliteit van een proces, product, middelen en de organisatie.
 	In ASL proberen wij kwaliteit te krijgen in een aantal onderwerpen, namelijk ;
 	-	Product 
@@ -27,71 +48,42 @@
 	De kwaliteit van de organisatie is afhankelijk van de infrastructuur van de organisatie. 
 	Dit gaat vooral om de management van activiteiten, de gang van zaken in de organisatie en de mensen en hun skills. 
 	
-	Het kwaliteit van de kwaliteits systeem.
-	Het kwaliteits systeem is de infrastructuur waarmee de applicatie management mee word uitgevoerd.  
-	Met het kwaliteit van dit systeem  bedoelen we dan de kwaliteit van de tools die hierin gebruikt worden.
-	De compleetheid en kwaliteit van bijvoorbeeld proces descripties en handleidingen.
+	Het kwaliteit van de kwaliteits systeem	
+	Met de kwaliteit van het systeem bedoelen we dan de kwaliteit van de tools die hierin gebruikt worden.
+	De compleetheid en kwaliteit van alle betrokken onderdelen van het kwaliteits systeem.
 	
-
 	Integratie van services tussen de leverancier en de organisatie.  
 	De integratie van services tussen de aanvoerders en de organisaties eigen services. 
 	Wat hier dan belangrijk is, is of de klant zijn vereisten naar behoren gedekt zijn.
-	
-
-	Kwaliteit is iets concreets en van praktische relevantie. 
+		
 	Kwaliteit, of gebrek aan kwaliteit, manifesteert zichzelf in veel manieren in de werkplaatsen. 
-	Plannen die vaak veranderen en niet gerealiseerd worden, slechte overdraagbaarheid,
-	 designs die erg slecht te lezen zijn of slechte communicatie met de klant zijn allemaal
-	 onderdelen die er voor kunnen zorgen dat de kwaliteit van het product omlaag kan gaan.
-	[Insert plaatje or whatever blz. 94]
-	Veel andere proces frameworks bevatten een proces meestal bekend als probleem management, 
+	Plannen die vaak veranderen en niet gerealiseerd worden, slechte overdraagbaarheid, 
+	designs die erg slecht te lezen zijn of slechte communicatie met de klant zijn allemaal
+	onderdelen die er voor kunnen zorgen dat de kwaliteit van het product omlaag kan gaan.
+	[quality of acquired services.PNG] 
+	Veel andere proces frameworks bevatten een proces dat meestal bekend staat als probleem management, 
 	een proces dat incidenten analyseert en de onderliggende problemen bekend maakt. ASL heeft geen 
-	speciale proces voor probleem management omdat problemen een van de belangrijkste middelen zijn  voor 
+	speciaal proces voor probleem management omdat problemen een van de belangrijkste middelen zijn voor 
 	de kwaliteits management met inzicht in de kwaliteit. Er kunnen ook problemen ontstaan zonder een incident.
-	
+	Kwaliteit is iets concreets en van praktische relevantie. 
 
 	Evaluaties van andere applicatie management processen, herkennen van bottlenecks of problemen zijn 
-	concrete items die geadresseerd worden door het kwaliteits management. dit betekend dat het geen
-	abstracte proces is, maar een erg concrete proces met concrete onderwerpen.
+	concrete items die geadresseerd worden door het kwaliteits management. Dit betekend dat het geen
+	abstract proces is, maar een erg concreet proces met concrete onderwerpen.
 	De software moet goed doordacht worden zodat je garandeert dat er goede resultaten uitkomen.
-	
-
-	[quality of acquired services.PNG] 
-	
-
-// Chapter 2 - Leg Procesmanagement uit
-	Bij een proces is er altijd iets om te verbeteren. Je kunt je wel voorstellen dat een stap niet als optimaal gezien kan zijn door de klant.
-	Onder procesmanagement, bestaan er 5 managementprocessen;
-	
-
-	//  leg uit wat alle managementprocessen zijn onderstaand beschreven.
-	+ Contractmanagement 
-	  - Bij contractmanagement zorg je ervoor dat de verwachtingen van de klant optimaal gerealiseerd worden. 
-	+ Planning en Control
-	  - Het managen van tijd, hoedanigheid, middelen en leverdatums.
-	+ Quality management 
-	  - Als doelstelling zorg te dragen voor de kwaliteit van een proces, product, middelen en de organisatie.
-	+ Financial management
-	  - Managen van uitgaven aan middelen.
-	+ Supplier management
-	  - Managen van diensten en producten die gebruikt worden. 
-	[Show QualityManagement.PNG]
 	
 
 // Chapter 3 -  Link tussen kwaliteitsmanagement en procesmanagement begint hier
 	[Show QualityManagement.PNG]
+	
 	Kwaliteitsmanagement is een van de vijf managementprocessen onder procesmanagement. 
-
-Het is een essentieel onderdeel van procesmanagement omdat het direct invloed heeft op de kwaliteit van het eindproduct.
-
-Zonder kwaliteitsmanagent zou de klant hoogstwaarschijnlijk ontevreden zijn met het eindproduct. 
+	Het is een essentieel onderdeel van procesmanagement omdat het direct invloed heeft op de kwaliteit van het eindproduct.
+	Zonder kwaliteitsmanagent zou de klant hoogstwaarschijnlijk ontevreden zijn met het eindproduct. 
 
 
-Slot 
-
-Bedankt voor het kijken naar onze video over kwaliteitsmanagement binnen procesmanagement. 
-
-Gemaakt door Jeremy Vorrink en Dylan ten Böhmer.
+// Slot 
+	Bedankt voor het kijken naar onze video over kwaliteitsmanagement binnen procesmanagement. 
+	Gemaakt door Jeremy Vorrink en Dylan ten Böhmer.
 
 
 
