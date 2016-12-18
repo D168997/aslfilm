@@ -14,7 +14,6 @@
 	Product
 	De kwaliteit van een product is afhankelijk van de kwaliteit van het productieproces en de materialen die gebruikt zijn in het productieproces.
 	
-
 	Productieproces
 	De kwaliteit van het productieproces.
 	Het productieproces geeft aan hoe een product geproduceerd is en hoe een proces geïmplementeerd en uitgevoerd is.
@@ -28,40 +27,39 @@
 	De kwaliteit van de organisaties is afhankelijk van de infrastructuur van de organisatie. 
 	Dit gaat vooral om de management van activiteiten, de gang van zaken in de organisatie en de mensen en hun skills. 
 	
-
 	Het kwaliteit van de kwaliteits systeem.
 	Het kwaliteits systeem is de infrastructuur waarmee de applicatie management mee word uitgevoerd.  
 	Met het kwaliteit van dit systeem  bedoelen we dan de kwaliteit van de tools die hierin gebruikt worden.
-	De compleetheid en kwaliteit van bijvoorbeeld process descipties en handleidingen.
+	De compleetheid en kwaliteit van bijvoorbeeld proces descripties en handleidingen.
 	
 
 	Integratie van services tussen de leverancier en de organisatie.  
-	De intergratie van services tussen de aanvoerders en de organizaties eigen services. 
+	De integratie van services tussen de aanvoerders en de organisaties eigen services. 
 	Wat hier dan belangrijk is, is of de klant zijn vereisten naar behoren gedekt zijn.
 	
 
-	Kwaliteit is iets concreets en van practische relevantie. 
+	Kwaliteit is iets concreets en van praktische relevantie. 
 	Kwaliteit, of gebrek aan kwaliteit, manifesteert zichzelf in veel manieren in de werkplaatsen. 
 	Plannen die vaak veranderen en niet gerealiseerd worden, slechte overdraagbaarheid,
 	 designs die erg slecht te lezen zijn of slechte communicatie met de klant zijn allemaal
 	 onderdelen die er voor kunnen zorgen dat de kwaliteit van het product omlaag kan gaan.
 	[Insert plaatje or whatever blz. 94]
-	Veel andere process frameworks bevatten een process meestal bekend als problem management, 
-	een process dat incidenten analiseerd en de onderliggende problemen bekend maakt. ASL heeft geen 
-	speciale proces voor problem management omdat problemen een van de belangrijkste middelen zijn  voor 
+	Veel andere proces frameworks bevatten een proces meestal bekend als probleem management, 
+	een proces dat incidenten analyseert en de onderliggende problemen bekend maakt. ASL heeft geen 
+	speciale proces voor probleem management omdat problemen een van de belangrijkste middelen zijn  voor 
 	de kwaliteits management met inzicht in de kwaliteit. Er kunnen ook problemen ontstaan zonder een incident.
 	
 
 	Evaluaties van andere applicatie management processen, herkennen van bottlenecks of problemen zijn 
 	concrete items die geadresseerd worden door het kwaliteits management. dit betekend dat het geen
 	abstracte proces is, maar een erg concrete proces met concrete onderwerpen.
-	De software moet goed doordacht worden zodat je garandeerd dat er goede resultaten uitkomen.
+	De software moet goed doordacht worden zodat je garandeert dat er goede resultaten uitkomen.
 	
 
-	[quility of acquired services.PNG] 
+	[quality of acquired services.PNG] 
 	
 
-	// Chapter 2 - Leg Procesmanagement uit
+// Chapter 2 - Leg Procesmanagement uit
 	Bij een proces is er altijd iets om te verbeteren. Je kunt je wel voorstellen dat een stap niet als optimaal gezien kan zijn door de klant.
 	Onder procesmanagement, bestaan er 5 managementprocessen;
 	
@@ -70,7 +68,7 @@
 	+ Contractmanagement 
 	  - Bij contractmanagement zorg je ervoor dat de verwachtingen van de klant optimaal gerealiseerd worden. 
 	+ Planning en Control
-	  - Het managen van tijd, hoedandigheid, middelen en leverdatums.
+	  - Het managen van tijd, hoedanigheid, middelen en leverdatums.
 	+ Quality management 
 	  - Als doelstelling zorg te dragen voor de kwaliteit van een proces, product, middelen en de organisatie.
 	+ Financial management
@@ -80,14 +78,20 @@
 	[Show QualityManagement.PNG]
 	
 
-	
-
-	// Chapter 3 -  Link tussen kwaliteitsmanagement en procesmanagement begint hier
+// Chapter 3 -  Link tussen kwaliteitsmanagement en procesmanagement begint hier
 	[Show QualityManagement.PNG]
 	Kwaliteitsmanagement is een van de vijf managementprocessen onder procesmanagement. 
 
 Het is een essentieel onderdeel van procesmanagement omdat het direct invloed heeft op de kwaliteit van het eindproduct.
-Zonder kwaliteitsmanagent zouden er vele problemen voorkomen bij een proces. P 
+
+Zonder kwaliteitsmanagent zou de klant hoogstwaarschijnlijk ontevreden zijn met het eindproduct. 
+
+
+Slot 
+
+Bedankt voor het kijken naar onze video over kwaliteitsmanagement binnen procesmanagement. 
+
+Gemaakt door Jeremy Vorrink en Dylan ten Böhmer.
 
 
 
